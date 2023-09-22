@@ -513,14 +513,14 @@
         private Label cleaningLabel;
         private Label cookingLabel;
         private Label laudryLabel;
-        public Panel homePanel;
-        public Panel cartPanel;
-        public Label totalPrice;
-        public Label otherPrice;
-        public Label acCleanPrice;
-        public Label fullCleanPrice;
-        public Label laudryPrice;
-        public Label cookingPrice;
-        public Label cleaningPrice;
+        public static Panel homePanel;
+        public static Panel cartPanel;
+        public static Label totalPrice;
+        public static Label otherPrice;
+        public static Label acCleanPrice;
+        public static Label fullCleanPrice;
+        public static Label laudryPrice;
+        public static Label cookingPrice;
+        public static Label cleaningPrice;
     }
 }
